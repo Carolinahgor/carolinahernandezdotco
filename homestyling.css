@@ -139,7 +139,6 @@ body {
  position: absolute;
  top: 2605px;
  left: 650px;
- width: 100%;
  font-family: 'Raleway', sans-serif;
 }
 
@@ -148,8 +147,8 @@ body {
  top: 2390px;
  left: 720px;
  font-family: 'Raleway', sans-serif;
-
 }
+
 #aa {
   text-decoration: none;
 }
